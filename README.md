@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Harmazii
+- 🌱 I’m currently learning node.js...
+- 💞️ I love developing new things.
